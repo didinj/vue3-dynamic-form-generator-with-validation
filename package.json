@@ -1,0 +1,20 @@
+{
+  "name": "vue3-dynamic-form",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vee-validate": "^4.15.1",
+    "vue": "^3.5.18",
+    "yup": "^1.7.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^7.1.2"
+  }
+}
