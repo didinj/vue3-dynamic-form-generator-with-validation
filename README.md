@@ -1,6 +1,6 @@
 # Build a Dynamic Form Generator in Vue 3 with Validation
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68b8f94ecb0b880d6c324727/build-a-dynamic-form-generator-in-vue-3-with-validation).
 
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
